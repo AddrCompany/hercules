@@ -1,0 +1,6 @@
+vultrun  0.75 400
+AlexBV1  3.1199999999999997 32
+Normal_Red_Sky  1.0 400
+ForBitcoinCom  12.82 312
+connlloc  1.0 200
+Tesla_Model3  0.5 400
