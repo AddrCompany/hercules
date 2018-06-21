@@ -18,12 +18,17 @@ def language_analysis(text):
 
 #print(language.Client())
 
-bot = Hercules("startups",1000);
+bot = Hercules(["bitcoin","startups","btc","cryptocurrencies","wallet"],100);
 
-bot.getComments()
-bot.find("bitcoin")
+#bot.getComments()
+#bot.find("bitcoin")
 
-bot.points(["startup","bitcoin","ledger","cryptocurrencies"])
+bot.realthing("bitcoin startup",["startup","bitcoin","ledger","cryptocurrencies"])
+
+#I should search for the sentence and then look for the thing.
+#
+#
+#bot.points("bitcoin",["startup","bitcoin","ledger","cryptocurrencies"])
 #document = types.Document(
 #        content=content,
 #        type=enums.Document.Type.PLAIN_TEXT)
@@ -31,9 +36,15 @@ bot.points(["startup","bitcoin","ledger","cryptocurrencies"])
 
     # Print the results
 #    print_result(annotations)
+#
+
+#bot.something should actually call bot.points which should be called by something else.
+
+# but what exactly is going on is something that I should really think about.
+
 
 for x in range(len(bot.replyCommentslist)):
-    print (bot.replyCommentslist[x].body)
+    print (bot.BMP(bot.replyCommentslist[x].body))
     #print(s.sentiment(bot.replyCommentslist[x].body))
     #sentiment, entities = language_analysis(bot.replyCommentslist[x].body)
     #print(sentiment.score, sentiment.magnitude)
