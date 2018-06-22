@@ -15,3 +15,4 @@ for x in wholelist:
         print(x)
 
 
+print(len(wholelist))

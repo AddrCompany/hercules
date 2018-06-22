@@ -18,12 +18,12 @@ def language_analysis(text):
 
 #print(language.Client())
 
-bot = Hercules(["bitcoin","startups","btc","cryptocurrencies","wallet"],100);
+bot = Hercules(["bitcoin","startups","btc","cryptocurrencies","BTCNews","BitcoinBeginners"],1000);
 
 #bot.getComments()
 #bot.find("bitcoin")
 
-bot.realthing("bitcoin startup",["startup","bitcoin","ledger","cryptocurrencies"])
+bot.realthing("bitcoin",["startup","bitcoin","ledger","cryptocurrencies"])
 
 #I should search for the sentence and then look for the thing.
 #

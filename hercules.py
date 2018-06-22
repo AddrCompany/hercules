@@ -122,9 +122,13 @@ class Hercules:
         except Exception as e:
             print(str(e))
 
+#Lets change the points system. Right now I'm giving one point for 
+
     def realthing(self, keyword, keywords):
         for x in self.subreddits:
+            print("\n\n\n Now printiting ", x) 
             self.fetch_and_process_comments_and_user(x,keyword,keywords)
+            print("\n\n\n DOne printiting the subreddit ", x) 
 
     def reply(self, commentid, replyList):
         commentid.reply(replyList)
