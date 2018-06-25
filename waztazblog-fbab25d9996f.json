@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "waztazblog",
+  "private_key_id": "fbab25d9996f2c2aada2cdb0c1ccdc8fc581d795",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0YFfAmh2na+0j\njTINH8AGk/PEattGwNdbLwaCrdzqWyyylr8COKkZ6pjOHBjKp3G06nMtk6OAUlLc\n6ewStp8r1doVIeDKcnqLlZ5KzGkzD0aDfNO3idRnSm3E6dY1IGL/5l6Aliw5NQhs\nJWaLRKPnNnPlRe4GgNXvboki8l3gYApf5SucdCaKtkWOpPK6XqCUVSmTjQ5UVGuF\nI+mUwHgeoO0BUYItj0lNe7LsoFUOLUyqUcCFasEYX7c7EAgUJnPtavn58TnFNvSR\nWK2UvUyBXO7jyfG63R2m4gaTOKV4gEohp+En1TIZM+PlXyuYRcXggsqd2hM13dj3\nxF3WbwxNAgMBAAECggEAEGa8Q/afi1Qx0BbsKKus6HbhO7MjCi10ckWgjWxlbJKV\ndLhmrjsxtnoRopgvxumahMKsGMZWdSTHL8WTd5DPK2C61PYWJxe+vdzWc7hfjnWC\nn2fP0TNsCBJepdZEvzhD2D9THip0OKVyWnG81R1iMUl5w1dsUSoQ30Bz9s9cADqu\nrG/vF8PY15Zqe5s/W8CXFFvtsXUAZNbtGyvIen+TnJ7FxcRtegjzuVqop0TkBoPd\neDN/d2SFlaBSJ1diD9YdLaspy/NbEien5LFHAsOT5GwRqdNX3aMMSR29+qalvIJK\nNU6lTdzpWzU18z2Fsm/ZYBjPdd5x28NNBQBhr+HxrwKBgQDz+/3VRPW40V0VXfGG\nNRhqHWMslb6acDndQTnMP8sZWCfyrZUIfrhKNwOM5dFwY9YCOwo/tPY1Jlhk3ssd\nI4DkDyXNCRs0vdWOQ55DVP71wU+bDXUbaQVKnglhwmG5xx40uMm53jQw6a4GWibb\nb9qFoQB1wosQAuyQC+bpL98fhwKBgQC9QmtthiDjTGv+firm0VtewVXsSt3YeNtq\nWsJXqHuXSV3VFHTF/KnFW/I+s9aMe1HiwA7Y67huGMvIZc/LSpEVjxUBcm/VYTDe\nQHJOhjpyrG+OicGzkuiAwPmA3RlRlcJlRgFyWdnb0DVRTmJO6fCyafzToNLxuFZ4\nSPYmJV8iiwKBgQC5mF3Npuh4j6KMR2sbmTYaOoKffsV/+5C40w4hZgGcJOg2fX6Z\n+LM9mT21J3k7UmaQSdMRBRoo8iNZj/TYFJLOaQtrPdsZMrLJxnwUYgqUbVmd7A3C\nLRBeY3tlhxUJ2gMLPeoN3o67Cndb06YtVJfZANE1wyg/pMnJBZTAm67R7wKBgFtZ\nwOK3mA4+Z+4J1gldSh39cczBAj2ncDjwn9eRwj3usrTTz910rDlPvSiYw1lBeO/a\nxg/cD0RNAaezxM2aK1ddncT6CJLU+7J7JvFSBsotAxeo1G8p3MGw431YuwzPHWqm\nlLIuPmLEJ8gb7oWqk3x6fgdkHA2CbXJXvUACT94rAoGAWLtMhbzlO5s2Fk027XMR\nvxG7obdIsSGj955JpI5IgEkq44y3Hmcmu5rjtq58LDYTlylr+W2UNiX8Q6BZmNsX\nDuTqDP6s1S01tpK42nvJBMdeyfvHzrZAxzZDKSqXadjOM/8wh2TsE0XuWpctDbdC\nvfKePUA4dmwHNEBsWK8PBZM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "waztazblog@waztazblog.iam.gserviceaccount.com",
+  "client_id": "113822490269390146161",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/waztazblog%40waztazblog.iam.gserviceaccount.com"
+}
